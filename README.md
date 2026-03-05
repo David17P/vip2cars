@@ -158,7 +158,7 @@ Una vez que corras los seeders, podrás ingresar con:
 | Campo | Valor |
 |-------|-------|
 | **Email** | `admin@vip2cars.com` |
-| **Contraseña** | `vip2cars2024` |
+| **Contraseña** | `vip2cars2026` |
 
 ---
 
